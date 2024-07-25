@@ -1,4 +1,2 @@
 print("my first line");
 print("my second line");
-print("some change I'm not sure about")
-print("new line added")
