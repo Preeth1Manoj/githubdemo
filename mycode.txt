@@ -1,8 +1,4 @@
 print("my first line");
 print("my second line");
 print("some change I'm not sure about")
-print("new and latest branch merge line added")
-commit A
-commit B
-commit C
-commit D
+print("new line added")
