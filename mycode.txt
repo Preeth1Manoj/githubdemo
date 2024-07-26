@@ -1,8 +1,11 @@
 print("my first line");
-print("my second line");
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 print("hello");
 =======
 print("some change I'm not sure about")
-print("new line added")
+
 >>>>>>> parent of fc8e65b (Revert "completed week1 changes")
+=======
+>>>>>>> parent of 225d363 (completed week1 changes)
